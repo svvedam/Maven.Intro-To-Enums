@@ -34,6 +34,7 @@ public class AliceBobEnumTest {
         Assert.assertEquals(expected, actual);
     }
 
+/*
 
 
     @Test
@@ -112,6 +113,7 @@ public class AliceBobEnumTest {
         // Then
         Assert.assertFalse(outcome);
     }
+*/
 
 
 }
